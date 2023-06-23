@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+#User-agent: *: This directive applies to all web robots. The asterisk (*) is a wildcard that represents all robots.
+Disallow: /: This directive specifies that all pages on the website are disallowed for crawling by any web robot. The forward slash (/) indicates the root directory of the website.
