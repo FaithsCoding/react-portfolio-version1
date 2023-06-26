@@ -4,3 +4,4 @@ import projectImage3 from "../assets/images/projects-img3.png";
 import 'animate.css';
 import TrackVisibility from "react-on-screen";
 import { projectCard } from "./ProjectCard";
+
