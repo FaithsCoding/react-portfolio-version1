@@ -1,13 +1,13 @@
 import "./App.css";
 import { Banner } from "./components/Banner";
-import { Skills } from "./components/Skills";
+import { AboutMe } from "./components/AboutMe";
 import { Projects } from "./components/Projects";
 
 function App() {
   return (
     <div className="App">
       <Banner />
-      <Skills />
+      <AboutMe />
       <Projects />
     </div>
   );

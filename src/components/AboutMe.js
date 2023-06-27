@@ -5,7 +5,7 @@ import meter1 from "../assets/images/meter1.svg";
 import meter2 from "../assets/images/meter2.svg";
 import meter3 from "../assets/images/meter3.svg";
 
-export const Skills = () => {
+export const AboutMe = () => {
   const responsive = {
     superLargeDesktop: {
       breakpoint: { max: 400, min: 3000 },
@@ -25,12 +25,12 @@ export const Skills = () => {
   };
 
   return (
-    <section className="skill" id="skills">
+    <section className="aboutme" id="aboutme">
       <div className="container">
         <div className="row">
           <div className="col-12">
             <div className="skill-bx wow zoomIn">
-              <h2>Skills</h2>
+              <h2>About Me</h2>
               <p>
                 In 2023 I qualified as a full stack web developer from the
                 University Of Birminghm.<br></br> I am passion about the web
